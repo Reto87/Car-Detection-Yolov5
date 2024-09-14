@@ -9,7 +9,7 @@ num_images_to_load = 3000
 
 # Directory paths or could dataset just add appropriate path
 label_dir = '/car_dataset-master/train/labels_2/'
-image_dir = '/car_dataset-master/train/images/'
+image_dir = '/car_dataset-master/train/labels_2/'
 yolo_label_dir = '/car_dataset-master/train/labels/'
 
 # make/check dir
